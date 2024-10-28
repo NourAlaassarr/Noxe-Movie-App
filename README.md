@@ -1,6 +1,4 @@
-Here’s a README for your Noxe Movie App project:
 
----
 
 # 🎬 Noxe Movie App
 
@@ -62,7 +60,4 @@ The app will be accessible at `http://localhost:3000`.
 
 Feel free to fork this project, create issues, or submit PRs. All contributions are welcome!
 
-
-
----
 
